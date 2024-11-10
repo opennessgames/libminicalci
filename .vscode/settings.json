@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.jvav": "java",
+        "qsqrt.h": "c",
+        "stdio.h": "c"
+    }
+}
